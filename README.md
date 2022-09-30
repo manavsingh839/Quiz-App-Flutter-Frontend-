@@ -1,10 +1,13 @@
-# flutter_project
+# Quiz-App-Flutter-Frontend-
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+	1. Requirement
+		- Flutter and Dart Sdk
+	2. Server Connection Setup
+		- Update Line Number: 2 in Config.dart file in lib folder Replace mainUrl with your Server Url.
+		- If Run Project on Localhost
+		- Then Open CMD/Terminal.
+		- Then then type ipconfig and Replace your Ipv4 ip with "http://<your Ipv4 ip>:3000/"
+    
 
 A few resources to get you started if this is your first Flutter project:
 
