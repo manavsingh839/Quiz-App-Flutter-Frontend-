@@ -2,7 +2,9 @@
 
 	1. Requirement
 		- Flutter and Dart Sdk
-	2. Server Connection Setup
+	2. Project Install
+		- Download this code and Open project folder in cmd and hit the "flutter pub get" command
+	3. Server Connection Setup
 		- Update Line Number: 2 in Config.dart file in lib folder Replace mainUrl with your Server Url.
 		- If Run Project on Localhost
 		- Then Open CMD/Terminal.
